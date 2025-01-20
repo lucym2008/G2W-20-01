@@ -1,4 +1,4 @@
-CLONAR REPOSITORIOS GIT: 
+CLONAR REPOSITORIOS GIT:
 git clone https://github.com/USURARIO/NOMEPROJETO.git
 git clone https://github.com//.git
 cd NOMEPROJETO
